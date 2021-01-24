@@ -1,0 +1,11 @@
+{
+    "reto1": {
+        "type": "web",
+        "url": "https://www.hackiit.cf/"
+    },
+    "reto2": {
+        "type": "netcat",
+        "ip": "localhost",
+        "port": 1234
+    }
+}
