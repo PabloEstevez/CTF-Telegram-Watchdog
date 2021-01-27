@@ -20,7 +20,6 @@ Esta función intenta conectarse al puerto especificado en la configuración. Si
 
 ## Ejecución
 
-```
+```bash
 bot_TOKEN="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11" group_id="196925415" python3 watchdog.py
-
 ```
