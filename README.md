@@ -17,3 +17,10 @@ Esta función hace un GET a la URL donde está la web del reto. Si le devuelve u
 ## check_port
 
 Esta función intenta conectarse al puerto especificado en la configuración. Si lo consigue, supone que está todo OK.
+
+## Ejecución
+
+```
+bot_TOKEN="123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11" group_id="196925415" python3 watchdog.py
+
+```
